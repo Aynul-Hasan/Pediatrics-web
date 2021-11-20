@@ -1,0 +1,16 @@
+.nav-btn{
+    background-color: transparent;
+    border: 2px solid #1ed495;
+    padding: 5px 20px;
+    color: #1ed495;
+    font-weight: bolder;
+    transition: all .5s ease-in-out ;
+}
+.nav-btn:hover{
+    background-color: #1ed495;
+    color: #fff;
+}
+.nav-link-hover:hover{
+    color: #1ed495 !important;
+
+}

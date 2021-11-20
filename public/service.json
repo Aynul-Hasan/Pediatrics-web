@@ -1,0 +1,51 @@
+[
+    {
+        "id":"1001",
+        "title":"Dental",
+        "img":"https://ca-times.brightspotcdn.com/dims4/default/3b9ae2b/2147483647/strip/true/crop/2618x1745+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F6c%2Fcf1af2844e36b18df5fa74833fac%2Fap16146096953467a.jpg",
+        "desc":"A good medical website becomes an excellent lead-generating tool and a valuable business assistant",
+        "price":"100"
+    },
+    {
+        "id":"1002",
+        "title":"Eye Test",
+        "img":"https://www.essilor.com.bd/sites/default/files/2018-07/eye-exam-children.jpg",
+        "desc":"A good medical website becomes an excellent lead-generating tool and a valuable business assistant",
+        "price":"50"
+    },
+    {
+        "id":"1003",
+        "title":"Cardiologist",
+        "img":"https://cdn-prod.medicalnewstoday.com/content/images/articles/248/248935/cardiology-cath-lab.jpg",
+        "desc":"A good medical website becomes an excellent lead-generating tool and a valuable business assistant",
+        "price":"80"
+    },
+    {
+        "id":"1004",
+        "title":"Psychiatrist",
+        "img":"https://futurepsychsolutions.com/wp-content/uploads/male-treatment6.jpg",
+        "desc":"A good medical website becomes an excellent lead-generating tool and a valuable business assistant",
+        "price":"50"
+    },
+    {
+        "id":"1005",
+        "title":"Neurologist",
+        "img":"https://cdn-prod.medicalnewstoday.com/content/images/articles/326/326717/a-neurologist-looking-at-a-brain-scan.jpg",
+        "desc":"A good medical website becomes an excellent lead-generating tool and a valuable business assistant",
+        "price":"56"
+    },
+    {
+        "id":"1006",
+        "title":"Orthopaedic",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ezLoKIZ0EUxbBoXZukuYYPfsr6huT2YXJuAFVFOAq5nGj5sk2ql7VAdSUizT4BwD_44&usqp=CAU",
+        "desc":"A good medical website becomes an excellent lead-generating tool and a valuable business assistant",
+        "price":"70"
+    },
+    {
+        "id":"1007",
+        "title":"Medicine specialist",
+        "img":"https://veganfoodandliving-1321f.kxcdn.com/wp-content/uploads/2019/03/featured.jpg",
+        "desc":"A good medical website becomes an excellent lead-generating tool and a valuable business assistant",
+        "price":"50"
+    }
+]
